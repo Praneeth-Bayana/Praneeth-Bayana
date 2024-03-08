@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praneeth Bayana</h1>
 <h3 align="center">MSCS @Purdue University || Senior Software Engineer at Wipro</h3>
 
-<img align="right" width="400" src="animated gif.gif" alt="Description of the image">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeth-bayana&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth-bayana" /> </p>
+
+<img align="right" width="300" src="animated gif.gif" alt="Description of the image">
 
 - 🔭 I’m currently working on **Tag Along & E-Commerce website**
 
