@@ -11,7 +11,11 @@
 
 - 🌱 I’m currently learning **Backend**
 
+- 🤔 I’m looking to collaborate on projects related to Machine Learning
+
 - 🤝 I’m looking for help with **Backend Development**
+
+- 📫 How to reach me: praneethbayana.dev@gmail.com
 
 
 
