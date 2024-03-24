@@ -7,7 +7,7 @@
 
 <img align="right" width="300" src="animated gif.gif" alt="Description of the image">
 
-- 🔭 I’m currently working on **Tag Along & E-Commerce website**
+- 🔭 I’m currently working on **Tag Along, RUnning Tracker & E-Commerce website**
 
 - 🌱 I’m currently learning **Backend**
 
