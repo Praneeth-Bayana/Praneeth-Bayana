@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth Bayana</h1>
-<h3 align="center">MSCS @Purdue University || Senior Software Engineer at Wipro</h3>
+<h3 align="center">MSCS @Purdue University || Ex Senior Project Engineer at Wipro</h3>
 
 
 
